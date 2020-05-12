@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Hello, ITEC students!"/>
+    <HelloWorld msg="Hello, ITEC students from Heroku!"/>
   </div>
 </template>
 
